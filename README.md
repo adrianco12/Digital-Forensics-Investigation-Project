@@ -18,6 +18,14 @@ This team-based digital forensics project reinforced practical forensic techniqu
   - Password-protected Office documents  
 - Documented evidence with timestamps, metadata, potential attribution, and hash values (MD5/SHA1).
 
+## Table of Contents 
+- [Initial Evidence Planting](Initial-Obfuscation-Methods.pdf)
+- [Alternate Data Streams](Alternate-Data-Streams.pdf)
+- [Passwords, File Extensions, and Deletions](Passwords-Extensions-Deletions.pdf)
+- [Additional Obfuscation Methods](Additional-Obfuscation-Methods.pdf)
+
+---
+
 ### Phase 2 – Forensic Analysis
 - Received a system with evidence planted by another team.  
 - Removed the hard drive and created a forensic disk image, validating integrity with MD5 and SHA1 hashes.  
