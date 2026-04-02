@@ -5,7 +5,7 @@ This team-based digital forensics project reinforced practical forensic techniqu
 
 ## Project Phases
 
-### Phase 1 – Evidence Planting
+# 🛠️ Phase 1 – Evidence Planting
 - Installed Windows 10 and created multiple user accounts with progressively complex passwords.  
 - Planted 10–20 pieces of evidence (Bible verses) using obfuscation techniques including:
   - File deletion  
@@ -121,7 +121,7 @@ This team-based digital forensics project reinforced practical forensic techniqu
 
 ---
 
-### Phase 2 – Forensic Analysis
+# 🔍 Phase 2 – Forensic Analysis
 - Received a system with evidence planted by another team.  
 - Removed the hard drive and created a forensic disk image, validating integrity with MD5 and SHA1 hashes.  
 - Analyzed artifacts including:
