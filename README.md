@@ -1,11 +1,11 @@
 # Digital Forensics Semester Project Overview
 
-# 🕵️ Project Summary
+## 🕵️ Project Summary
 This team-based digital forensics project reinforced practical forensic techniques in a controlled Windows 10 environment. The project consisted of planting and obfuscating evidence on one system and investigating another team’s system to locate and attribute digital artifacts.
 
 ## Project Phases
 
-# 🛠️ Phase 1 – Evidence Planting
+## 🛠️ Phase 1 – Evidence Planting
 - Installed Windows 10 and created multiple user accounts with progressively complex passwords.  
 - Planted 10–20 pieces of evidence (Bible verses) using obfuscation techniques including:
   - File deletion  
@@ -18,9 +18,9 @@ This team-based digital forensics project reinforced practical forensic techniqu
   - Password-protected Office documents  
 - Documented evidence with timestamps, metadata, potential attribution, and hash values (MD5/SHA1).
 
-## Timeline of Activities
+### Timeline of Activities
 
-## Table of Contents
+### Table of Contents
 - [February 11, 2026 – Initial Obfuscation Methods](Initial-Obfuscation-Methods.pdf)
 - [February 23, 2026 – Alternate Data Streams](Alternate-Data-Streams.pdf)
 - [February 27, 2026 – Passwords, File Extensions, and Deletions](Passwords-Extensions-Deletions.pdf)
@@ -28,7 +28,7 @@ This team-based digital forensics project reinforced practical forensic techniqu
 
 ---
 
-### February 11, 2026 – Initial Obfuscation Methods
+#### February 11, 2026 – Initial Obfuscation Methods
 
 **User #1 (DF)**  
 - **System Time:** 4:17 PM  
@@ -47,7 +47,7 @@ This team-based digital forensics project reinforced practical forensic techniqu
 
 ---
 
-### February 23, 2026 – Alternate Data Streams
+#### February 23, 2026 – Alternate Data Streams
 
 **User #1 (DF)**  
 - **System Time:** 4:55 PM  
@@ -66,7 +66,7 @@ This team-based digital forensics project reinforced practical forensic techniqu
 
 ---
 
-### February 27, 2026 – Passwords, File Extensions, Deletions
+#### February 27, 2026 – Passwords, File Extensions, Deletions
 
 **User #1 (DF)**  
 - **System Time:** 4:45 PM  
@@ -102,7 +102,7 @@ This team-based digital forensics project reinforced practical forensic techniqu
 
 ---
 
-### March 18, 2026 – Additional Obfuscation Methods
+#### March 18, 2026 – Additional Obfuscation Methods
 
 **User #1 (DF)**  
 - **System Time:** 4:38 PM  
@@ -121,7 +121,7 @@ This team-based digital forensics project reinforced practical forensic techniqu
 
 ---
 
-# 🔍 Phase 2 – Forensic Analysis
+## 🔍 Phase 2 – Forensic Analysis
 - Received a system with evidence planted by another team.  
 - Removed the hard drive and created a forensic disk image, validating integrity with MD5 and SHA1 hashes.  
 - Analyzed artifacts including:
