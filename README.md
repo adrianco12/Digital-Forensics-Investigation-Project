@@ -1,6 +1,6 @@
 # Digital Forensics Semester Project Overview
 
-## Project Summary
+# 🕵️ Project Summary
 This team-based digital forensics project reinforced practical forensic techniques in a controlled Windows 10 environment. The project consisted of planting and obfuscating evidence on one system and investigating another team’s system to locate and attribute digital artifacts.
 
 ## Project Phases
